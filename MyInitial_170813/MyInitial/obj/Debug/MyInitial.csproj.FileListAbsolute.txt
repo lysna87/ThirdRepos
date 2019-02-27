@@ -1,0 +1,52 @@
+C:\TAFESA\2015_S2\TAFESA_S2_2015\5TSD\Session01\Lab01\MyInitial\obj\Debug\MyNameSpace.AboutBox1.resources
+C:\TAFESA\2015_S2\TAFESA_S2_2015\5TSD\Session01\Lab01\MyInitial\obj\Debug\MyNameSpace.JuiceBarForm.resources
+C:\TAFESA\2015_S2\TAFESA_S2_2015\5TSD\Session01\Lab01\MyInitial\obj\Debug\MyNameSpace.SummaryForm.resources
+C:\TAFESA\2015_S2\TAFESA_S2_2015\5TSD\Session01\Lab01\MyInitial\obj\Debug\MyInitial.csproj.GenerateResource.Cache
+C:\TAFESA\2015_S2\TAFESA_S2_2015\5TSD\Session01\Lab01\MyInitial\bin\Debug\MyNameSpace.exe
+C:\TAFESA\2015_S2\TAFESA_S2_2015\5TSD\Session01\Lab01\MyInitial\bin\Debug\MyNameSpace.pdb
+C:\TAFESA\2015_S2\TAFESA_S2_2015\5TSD\Session01\Lab01\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
+C:\TAFESA\2015_S2\TAFESA_S2_2015\5TSD\Session01\Lab01\MyInitial\obj\Debug\MyNameSpace.exe
+C:\TAFESA\2015_S2\TAFESA_S2_2015\5TSD\Session01\Lab01\MyInitial\obj\Debug\MyNameSpace.pdb
+E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\obj\Debug\MyNameSpace.exe
+E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\obj\Debug\MyNameSpace.pdb
+E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\bin\Debug\MyNameSpace.exe
+E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\bin\Debug\MyNameSpace.pdb
+E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\obj\Debug\MyInitial.csprojResolveAssemblyReference.cache
+E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\obj\Debug\MyNameSpace.AboutBox1.resources
+E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\obj\Debug\MyNameSpace.JuiceBarForm.resources
+E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
+E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\obj\Debug\MyNameSpace.SummaryForm.resources
+E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\obj\Debug\MyInitial.csproj.GenerateResource.Cache
+D:\MyTafe\2017_S1\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyNameSpace.exe
+D:\MyTafe\2017_S1\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyNameSpace.pdb
+D:\MyTafe\2017_S1\5TSD\Resources\Session02\Student Files\MyInitial\bin\Debug\MyNameSpace.exe.config
+D:\MyTafe\2017_S1\5TSD\Resources\Session02\Student Files\MyInitial\bin\Debug\MyNameSpace.exe
+D:\MyTafe\2017_S1\5TSD\Resources\Session02\Student Files\MyInitial\bin\Debug\MyNameSpace.pdb
+D:\MyTafe\2017_S1\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyInitial.csprojResolveAssemblyReference.cache
+D:\MyTafe\2017_S1\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyNameSpace.AboutBox1.resources
+D:\MyTafe\2017_S1\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyNameSpace.JuiceBarForm.resources
+D:\MyTafe\2017_S1\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
+D:\MyTafe\2017_S1\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyNameSpace.SummaryForm.resources
+D:\MyTafe\2017_S1\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyInitial.csproj.GenerateResource.Cache
+D:\MyTafe\2107_S2\5TSD\Resources\Session02\Student Files\MyInitial\bin\Debug\MyNameSpace.exe.config
+D:\MyTafe\2107_S2\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyNameSpace.exe
+D:\MyTafe\2107_S2\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyNameSpace.pdb
+D:\MyTafe\2107_S2\5TSD\Resources\Session02\Student Files\MyInitial\bin\Debug\MyNameSpace.exe
+D:\MyTafe\2107_S2\5TSD\Resources\Session02\Student Files\MyInitial\bin\Debug\MyNameSpace.pdb
+D:\MyTafe\2107_S2\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyInitial.csprojResolveAssemblyReference.cache
+D:\MyTafe\2107_S2\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyNameSpace.AboutBox1.resources
+D:\MyTafe\2107_S2\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyNameSpace.JuiceBarForm.resources
+D:\MyTafe\2107_S2\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
+D:\MyTafe\2107_S2\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyNameSpace.SummaryForm.resources
+D:\MyTafe\2107_S2\5TSD\Resources\Session02\Student Files\MyInitial\obj\Debug\MyInitial.csproj.GenerateResource.Cache
+C:\SecondRepos\MyInitial_170813\MyInitial\bin\Debug\MyNameSpace.exe.config
+C:\SecondRepos\MyInitial_170813\MyInitial\obj\Debug\MyNameSpace.exe
+C:\SecondRepos\MyInitial_170813\MyInitial\obj\Debug\MyNameSpace.pdb
+C:\SecondRepos\MyInitial_170813\MyInitial\bin\Debug\MyNameSpace.exe
+C:\SecondRepos\MyInitial_170813\MyInitial\bin\Debug\MyNameSpace.pdb
+C:\SecondRepos\MyInitial_170813\MyInitial\obj\Debug\MyInitial.csprojResolveAssemblyReference.cache
+C:\SecondRepos\MyInitial_170813\MyInitial\obj\Debug\MyNameSpace.AboutBox1.resources
+C:\SecondRepos\MyInitial_170813\MyInitial\obj\Debug\MyNameSpace.JuiceBarForm.resources
+C:\SecondRepos\MyInitial_170813\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
+C:\SecondRepos\MyInitial_170813\MyInitial\obj\Debug\MyNameSpace.SummaryForm.resources
+C:\SecondRepos\MyInitial_170813\MyInitial\obj\Debug\MyInitial.csproj.GenerateResource.Cache

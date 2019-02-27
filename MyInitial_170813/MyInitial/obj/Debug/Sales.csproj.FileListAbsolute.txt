@@ -1,0 +1,15 @@
+C:\SecondRepos\MyInitial_170813\MyInitial\obj\Debug\Sales.csprojResolveAssemblyReference.cache
+C:\SecondRepos\MyInitial_170813\MyInitial\obj\Debug\MyNameSpace.AboutBox1.resources
+C:\SecondRepos\MyInitial_170813\MyInitial\obj\Debug\MyNameSpace.JuiceBarForm.resources
+C:\SecondRepos\MyInitial_170813\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
+C:\SecondRepos\MyInitial_170813\MyInitial\obj\Debug\MyNameSpace.SummaryForm.resources
+C:\SecondRepos\MyInitial_170813\MyInitial\obj\Debug\Ticketing.TicketsForm.resources
+C:\SecondRepos\MyInitial_170813\MyInitial\obj\Debug\Sales.csproj.GenerateResource.Cache
+C:\SecondRepos\MyInitial_170813\MyInitial\obj\Debug\MyNameSpace.exe
+C:\SecondRepos\MyInitial_170813\MyInitial\obj\Debug\MyNameSpace.pdb
+C:\SecondRepos\MyInitial_170813\MyInitial\bin\Debug\MyNameSpace.exe.config
+C:\SecondRepos\MyInitial_170813\MyInitial\bin\Debug\MyNameSpace.exe
+C:\SecondRepos\MyInitial_170813\MyInitial\bin\Debug\MyNameSpace.pdb
+C:\ThirdRepos\MyInitial_170813\MyInitial\bin\Debug\MyNameSpace.exe.config
+C:\ThirdRepos\MyInitial_170813\MyInitial\obj\Debug\MyNameSpace.exe
+C:\ThirdRepos\MyInitial_170813\MyInitial\obj\Debug\MyNameSpace.pdb
