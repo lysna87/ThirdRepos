@@ -43,6 +43,7 @@ namespace Ticketing
             mTicketPrice = new TicketPrice(mSection, mQuantity, mDiscount);
 
             mTicketPrice.calculatePrice();
+            decimal discount = decimal.Parse(txtDiscount.Text);
             lblAmount.Text = System.Convert.ToString(mTicketPrice.AmountDue);
         }
 
