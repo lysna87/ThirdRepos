@@ -40,8 +40,9 @@
             this.cmdCalculate = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.txtDiscount = new System.Windows.Forms.TextBox();
-            this.radBack = new System.Windows.Forms.RadioButton();
-            this.grpSection.SuspendLayout();
+			 this.radBack = new System.Windows.Forms.RadioButton();
+			this.checkBox1 = new System.Windows.Forms.CheckBox();            
+			this.grpSection.SuspendLayout();
             this.SuspendLayout();
             // 
             // lblQuantity
@@ -86,6 +87,7 @@
             this.chkDiscount.TabIndex = 5;
             this.chkDiscount.Text = "Senior / Student";
             this.chkDiscount.UseVisualStyleBackColor = true;
+            this.chkDiscount.CheckedChanged += new System.EventHandler(this.chkDiscount_CheckedChanged);
             // 
             // radBalcony
             // 
@@ -170,11 +172,24 @@
             this.radBack.Text = "Back Stall";
             this.radBack.UseVisualStyleBackColor = true;
             // 
+
+ // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Location = new System.Drawing.Point(247, 95);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(49, 17);
+            this.checkBox1.TabIndex = 13;
+            this.checkBox1.Text = "Child";
+            this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            // 
             // TicketsForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(608, 445);
+            this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.txtDiscount);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.cmdCalculate);
@@ -209,6 +224,8 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txtDiscount;
         private System.Windows.Forms.RadioButton radBack;
-    }
+ 		private System.Windows.Forms.CheckBox checkBox1;
+    
+}
 }
 
